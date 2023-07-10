@@ -24,7 +24,7 @@
     "hexo-renderer-swig": "^2.0.0",
     "hexo-server": "^3.0.0",
     "hexo-theme-landscape": "^1.0.0",
-    "hexo-util": "^3.0.1",
+    "hexo-util": "^3.1.0",
     "nunjucks": "^3.2.4"
   }
 }
